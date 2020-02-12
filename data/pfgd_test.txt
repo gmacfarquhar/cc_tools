@@ -1,0 +1,3 @@
+C:\Users\gmacf\AppData\Local\Programs\Python\Python38-32\python.exe C:/Users/gmacf/Desktop/53230/cc_tools/cc_dat_utils.py
+
+Process finished with exit code 0
