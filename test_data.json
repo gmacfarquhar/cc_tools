@@ -1,0 +1,29 @@
+{
+
+  "GameLibrary" : [
+    {
+      "Platform": {
+        "launch_year": 1989,
+        "name": "Atari Lynx"
+      },
+      "title" : "Chip's Challenge",
+      "Year": 1989
+    },
+    {
+      "Platform": {
+        "launch_year": 2003,
+        "name": "Steam"
+      },
+      "title" : "Chip's Challenge 2",
+      "Year": 2015
+    },
+    {
+      "Platform": {
+        "launch_year": 2013,
+        "name": "Playstation 4"
+      },
+      "title" : "Ratchet and Clank",
+      "Year": 2016
+    }
+    ]
+}
